@@ -28,7 +28,9 @@
  a {
      text-decoration: none;
  }
-
+.achraf-radius{
+    border-radius: 30px;
+}
  .hidden {
      opacity: 0;
      filter: blur(5px);
